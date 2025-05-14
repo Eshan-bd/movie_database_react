@@ -3,11 +3,13 @@
     height: 450px;
     display: flex;
     flex-direction: column;
+    padding: 0;
   }
   
   .movie-card-img {
     height: 250px;
     object-fit: cover;
+
   }
   
   .movie-card-body {
